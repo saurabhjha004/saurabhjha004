@@ -1,4 +1,3 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0Z55ez3aAbl0K2MixiZX3s&ust=1714310811453000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCq9Jm_4oUDFQAAAAAdAAAAABAE)](https://saurabhjha004.io)
 <h1 align="center">Hi 👋, I'm Saurabh Jha</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
