@@ -6,7 +6,7 @@
 </p>
 
 <div align="center">
-  <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGt5b2RnNzlkZzNnd2VzaHhtMTd5ejRlcmVuMXFmZnd3MHR0ZjNubCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Coding Animation">
 </div>
 
 ## 👨‍💻 About Me
