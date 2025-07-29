@@ -5,7 +5,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%40+VIT+Bhopal;Full+Stack+Developer;Machine+Learning+Enthusiast;Competitive+Programming+%7C+Pupil+on+Codeforces;Always+Learning+New+Technologies" alt="Typing SVG" /></a>
 </p>
 
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/src/coding%20(2).gif">
+<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGt5b2RnNzlkZzNnd2VzaHhtMTd5ejRlcmVuMXFmZnd3MHR0ZjNubCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif">
 
 ## 👨‍💻 About Me
 
@@ -13,7 +13,8 @@
 
 🏆 **Achievements**: TCS CodeVita AIR 1319, ZS Campus Beats winner, Amazon Smbhav Top 150 (among 20,000+ teams)  
 💻 **Tech Stack**: React, Node.js, Python, MongoDB, GCP  
-🎯 **Codeforces**: Pupil rating | **Microsoft Azure Certified**
+🎯 **Codeforces**: Pupil rating  
+☁️ **Microsoft Azure Certified**
 
 💬 **Always open to connect, collaborate, or discuss exciting tech projects!**
 
@@ -86,11 +87,6 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhjha004&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
-</div>
-
-### 🔥 Contribution Heatmap
-<div align="center">
-  <img width="900" src="https://ghchart.rshah.org/2ea043/saurabhjha004" alt="Saurabh's Github chart" />
 </div>
 
 ---
