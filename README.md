@@ -1,25 +1,130 @@
 <h1 align="center">Hi 👋, I'm Saurabh Jha</h1>
-<h3 align="center">A passionate Web developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h3 align="center">Full-Stack Developer | ML Enthusiast | Building scalable web applications with modern technologies</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabhjha004" alt="saurabhjha004" /></a> </p>
-
-- 🌱 I’m currently learning **Machine Learning**
-
-- 💬 Ask me about **JavaScript, Python, Development**
-
-- 📫 How to reach me **saurabhdkmjha@gmail.com**
-
-- ⚡ Fun fact **I love DSA**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/saurabh-jha-744102251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saurabh-jha-744102251" height="30" width="40" /></a>
-<a href="https://instagram.com/ft.saurabh04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ft.saurabh04" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/saurabhdkmjha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saurabhdkmjha" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%40+VIT+Bhopal;Full+Stack+Developer;Machine+Learning+Enthusiast;Competitive+Programming+%7C+Pupil+on+Codeforces;Always+Learning+New+Technologies" alt="Typing SVG" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabhjha004&show_icons=true&locale=en&layout=compact" alt="saurabhjha004" /></p>
+## 👨‍💻 About Me
+
+My name is **Saurabh Jha**, and I am a Computer Science student at **VIT Bhopal (CGPA: 9.01)**, exploring how technology can be used to solve meaningful, real-world problems. My current interests lie in **machine learning**, **backend systems**, and **full-stack development** — areas where I enjoy building solutions that are both functional and thoughtful.
+
+I've tested my skills through **national-level hackathons and competitions**, earning top ranks in **TCS CodeVita (AIR 1319)**, **ZS Campus Beats**, and **Amazon Smbhav**. I've built responsive UIs with React, engineered backends in Node.js and FastAPI/Python, managed data with MongoDB and Firebase, and deployed production-ready applications on Google Cloud Platform. These experiences have shaped my approach to problem-solving — with a focus on **clarity**, **scalability**, and **real-world impact**.
+
+I'm also an active programming enthusiast and a **Pupil on Codeforces**, constantly pushing my limits in algorithmic problem-solving. **Microsoft Azure certified** with hands-on cloud computing experience.
+
+💬 **Always open to connect, collaborate, or talk about projects, ideas, and tech that matters.**
+
+---
+
+## 🚀 What I'm Up To
+
+- 🌱 Currently diving deep into **Machine Learning** and **AI integration**
+- 🔭 Working on scalable web applications with **React** and **Node.js**
+- 🏆 Competing in **competitive programming** contests on Codeforces
+- 📚 Exploring **cloud computing** and **microservices architecture**
+- 💡 Building projects that solve real-world problems
+
+---
+
+## 🏆 Achievements & Certifications
+
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabhjha004&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="saurabhjha004" /></a>
+</p>
+
+- 🥇 **TCS CodeVita**: All India Rank 1319
+- 🏆 **ZS Campus Beats**: Top Performer
+- 🚀 **Amazon Smbhav**: Finalist
+- ☁️ **Microsoft Azure Certified**
+- 🎯 **Codeforces**: Pupil Rating
+- 🎓 **VIT Bhopal**: CGPA 9.01/10
+
+---
+
+## 🛠️ Tech Stack
+
+### **Frontend Development**
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### **Backend Development**
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### **Databases & Cloud**
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/-Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+### **Programming & Tools**
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saurabhjha004&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Saurabh's GitHub Stats" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhjha004&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" height="180em"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhjha004&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saurabhjha004&theme=react-dark&bg_color=0d1117&hide_border=true" alt="Saurabh's Activity Graph"/>
+</div>
+
+---
+
+## 🤝 Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saurabh-jha-744102251)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ft.saurabh04)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/saurabhdkmjha)
+[![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/saurabhjha004)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saurabhdkmjha@gmail.com)
+
+</div>
+
+---
+
+## 💡 Fun Facts
+
+- ⚡ I love **Data Structures and Algorithms** and spend hours solving competitive programming problems
+- 🎯 Always excited about **hackathons** and **coding competitions**
+- 🌟 Believe in **clean code** and **scalable solutions**
+- 🔍 Constantly exploring new technologies and frameworks
+- 🤝 Open to **collaborations** and **mentoring** opportunities
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=saurabhjha004&color=brightgreen&style=for-the-badge" alt="Profile Views" />
+</div>
+
+<div align="center">
+  <h3>⭐ Show some love by starring repositories you find interesting! ⭐</h3>
+</div>
