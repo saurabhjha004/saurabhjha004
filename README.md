@@ -5,7 +5,9 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%40+VIT+Bhopal;Full+Stack+Developer;Machine+Learning+Enthusiast;Competitive+Programming+%7C+Pupil+on+Codeforces;Always+Learning+New+Technologies" alt="Typing SVG" /></a>
 </p>
 
-<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGt5b2RnNzlkZzNnd2VzaHhtMTd5ejRlcmVuMXFmZnd3MHR0ZjNubCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif">
+<div align="center">
+  <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGt5b2RnNzlkZzNnd2VzaHhtMTd5ejRlcmVuMXFmZnd3MHR0ZjNubCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif">
+</div>
 
 ## 👨‍💻 About Me
 
