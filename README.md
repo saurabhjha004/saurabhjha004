@@ -5,17 +5,17 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%40+VIT+Bhopal;Full+Stack+Developer;Machine+Learning+Enthusiast;Competitive+Programming+%7C+Pupil+on+Codeforces;Always+Learning+New+Technologies" alt="Typing SVG" /></a>
 </p>
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
 ## 👨‍💻 About Me
 
-My name is **Saurabh Jha**, and I am a Computer Science student at **VIT Bhopal (CGPA: 9.01)**, exploring how technology can be used to solve meaningful, real-world problems. My current interests lie in **machine learning**, **backend systems**, and **full-stack development** — areas where I enjoy building solutions that are both functional and thoughtful.
+**Computer Science student at VIT Bhopal (CGPA: 9.01)** passionate about solving real-world problems through technology. I specialize in **machine learning**, **full-stack development**, and **competitive programming**.
 
-I've tested my skills through **national-level hackathons and competitions**, earning top ranks in **TCS CodeVita (AIR 1319)**, **ZS Campus Beats**, and **Amazon Smbhav**. I've built responsive UIs with React, engineered backends in Node.js and FastAPI/Python, managed data with MongoDB and Firebase, and deployed production-ready applications on Google Cloud Platform. These experiences have shaped my approach to problem-solving — with a focus on **clarity**, **scalability**, and **real-world impact**.
+🏆 **Achievements**: TCS CodeVita AIR 1319, ZS Campus Beats winner, Amazon Smbhav Top 150 (among 20,000+ teams)  
+💻 **Tech Stack**: React, Node.js, Python, MongoDB, GCP  
+🎯 **Codeforces**: Pupil rating | **Microsoft Azure Certified**
 
-I'm also an active programming enthusiast and a **Pupil on Codeforces**, constantly pushing my limits in algorithmic problem-solving. **Microsoft Azure certified** with hands-on cloud computing experience.
-
-💬 **Always open to connect, collaborate, or talk about projects, ideas, and tech that matters.**
+💬 **Always open to connect, collaborate, or discuss exciting tech projects!**
 
 ---
 
@@ -37,7 +37,7 @@ I'm also an active programming enthusiast and a **Pupil on Codeforces**, constan
 
 - 🥇 **TCS CodeVita**: All India Rank 1319
 - 🏆 **ZS Campus Beats**: Top Performer
-- 🚀 **Amazon Smbhav**: Finalist
+- 🚀 **Amazon Smbhav**: Top 150 among 20,000+ teams
 - ☁️ **Microsoft Azure Certified**
 - 🎯 **Codeforces**: Pupil Rating
 - 🎓 **VIT Bhopal**: CGPA 9.01/10
@@ -67,6 +67,7 @@ I'm also an active programming enthusiast and a **Pupil on Codeforces**, constan
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/-Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ### **Programming & Tools**
@@ -85,6 +86,11 @@ I'm also an active programming enthusiast and a **Pupil on Codeforces**, constan
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhjha004&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+</div>
+
+### 🔥 Contribution Heatmap
+<div align="center">
+  <img src="https://ghchart.rshah.org/36BCF7/saurabhjha004" alt="Saurabh's Github chart" />
 </div>
 
 ---
