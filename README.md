@@ -5,7 +5,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%40+VIT+Bhopal;Full+Stack+Developer;Machine+Learning+Enthusiast;Competitive+Programming+%7C+Pupil+on+Codeforces;Always+Learning+New+Technologies" alt="Typing SVG" /></a>
 </p>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/src/coding%20(2).gif">
 
 ## 👨‍💻 About Me
 
@@ -90,7 +90,7 @@
 
 ### 🔥 Contribution Heatmap
 <div align="center">
-  <img src="https://ghchart.rshah.org/36BCF7/saurabhjha004" alt="Saurabh's Github chart" />
+  <img width="900" src="https://ghchart.rshah.org/2ea043/saurabhjha004" alt="Saurabh's Github chart" />
 </div>
 
 ---
